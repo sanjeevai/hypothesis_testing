@@ -1,5 +1,11 @@
-## Udacity-ABTesting
-A/B Tests are very commonly performed by data analysts and data scientists.
+# Data Analyst Nanodegree
+
+## Practical Statistics
+
+## Project: Analyze A/B Test Results
+
+### Project Details
+A/B Tests are very commonly performed by data analysts and data scientists. It is important to get some practice working with the difficulties of these.
 In this project under Udacity's Data Analyst Nanodegree program, an e-commerce website (fictional) wants to add a new page to their website.
 My task is to determine whether they should implement this new page, keep the old page, or perhaps run the experiment longer to make their decision.
 
