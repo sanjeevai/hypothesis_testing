@@ -5,17 +5,21 @@
 ## Project: Analyze A/B Test Results
 
 ### Project Details
+
 A/B Tests are very commonly performed by data analysts and data scientists. It is important to get some practice working with the difficulties of these.
-In this project under Udacity's Data Analyst Nanodegree program, an e-commerce website (fictional) wants to add a new page to their website.
-My task is to determine whether they should implement this new page, keep the old page, or perhaps run the experiment longer to make their decision.
+
+This is the fourth project of Data Analyst Nanodegree at Udacity. For this project, we will be working to understand the results of an A/B test run by an e-commerce website(fictional).
+
+Our task is to determine whether they should implement this new page, keep the old page, or perhaps run the experiment longer to make their decision.
 
 ## Files
 
-* analyse_ab_test_results_notebook.ipynb
+- analyse_ab_test_results_notebook.ipynb:
 
 This is the file where I performed the main work of this project including **data wrangling** and **hypothesis testing**.
 
-* ab_data.csv
+- ab_data.csv
+
 Input dataset with five features:
 
 1. user_id
@@ -36,10 +40,10 @@ It also has two values: *old_page* & *new_page*. New page is the one which we th
 
 It can be 0 or 1. 1 means the user converted and 0 means the user did not convert.
 
-* countries.csv
+- countries.csv
 
 Dataset to include the *countries* column as another independent variable.
 
-* report.html
+- report.html
 
 This is the HTML export of "analyse_ab_test_results_notebook.ipynb" file.
