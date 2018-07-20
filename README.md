@@ -46,4 +46,4 @@ Dataset to include the *countries* column as another independent variable.
 
 - report.html
 
-This is the HTML export of "analyse_ab_test_results_notebook.ipynb" file.
+This is the HTML export of Jupyter Notebook.
