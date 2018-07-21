@@ -8,7 +8,7 @@
 
 A/B Tests are very commonly performed by data analysts and data scientists. It is important to get some practice working with the difficulties of these.
 
-This is the fourth project of Data Analyst Nanodegree at Udacity. For this project, we will be working to understand the results of an A/B test run by an e-commerce website(fictional).
+This is the fourth project of Data Analyst Nanodegree at Udacity. For this project, we will be working to understand the results of an A/B test run by an e-commerce website (fictional).
 
 Our task is to determine whether they should implement this new page, keep the old page, or perhaps run the experiment longer to make their decision.
 
@@ -24,7 +24,7 @@ Input dataset with five features:
 
 1. user_id
 
-    This is the unique identifier for this data set.
+This is the unique identifier for this data set.
 
 2. timestamp
 
