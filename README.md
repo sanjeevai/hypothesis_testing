@@ -75,7 +75,7 @@ The goal is to use statsmodels to fit the regression model to see if there is a 
 
 Here is a summary of the model:
 
-<img src='./img/model.jpg' alt='' width='400'>
+<img src='./img/model.jpg' alt='' width='500'>
 
 The dependent variable is `converted` column which is 1 if the user is converted and 0 if not.
 
@@ -89,7 +89,7 @@ Now along with testing if the conversion rate changes for different pages, we al
 
 Here is a summary of the model after considering the location information:
 
-<img src='./img/countries.jpg' alt='countries' width='400'>
+<img src='./img/countries.jpg' alt='countries' width='500'>
 
 <a id='conclusion'></a>
 
